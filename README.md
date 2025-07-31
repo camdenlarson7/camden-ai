@@ -1,2 +1,2 @@
 # camden-ai
-Personal Assistant
+Personal Assistant App
